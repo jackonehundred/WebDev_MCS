@@ -1,0 +1,53 @@
+@import url(reset.css);
+
+.header {
+	width: 1440px;
+	height: 200px;
+	background-color: #000080;
+}
+
+.headerContainer {
+	width: 470px;
+	height: 200px;
+	color: white;
+	font-family: Helvetica;
+	font-size: 50px;
+	line-height: 57px;
+	display: flex;
+	align-items: center;
+}
+
+.imageContainer {
+	width: 1440px;
+	height: 1080px;
+	background-image: url(../img/img.jpeg);
+	background-position: cover;
+}
+
+.menu {
+	width: 1440px;
+	height: 100px;
+	background-color: #000080;
+}
+
+
+.textContainer {
+	width: 1440px;
+	height: 800px;
+	font-family: Helvetica;
+	font-size: 50px;
+	line-height: 57px;
+}
+
+.footer {
+	width: 1440px;
+	height: 200px;
+	background-color: #000080;
+
+}
+
+.footerContainer {
+	width: 1440px;
+	height: 200px;
+	align-items: center;
+}
